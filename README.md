@@ -8,7 +8,7 @@ This is a Power BI dashboard to analyze Flight Delays across U.S. airlines over 
 **Airports and Airlines**: Airports and airlines with highest delay rates
 
 ## Dashboard Screenshot
-![U.S Flight Delay Analysis Dashboard](https://github.com/Dinara-Kahadawa/U.S_Flight_Delay_Analysis_Dashboard/blob/main/US%20Flight%20Delay%20Analysis)
+![U.S Flight Delay Analysis Dashboard](https://github.com/Dinara-Kahadawa/U.S_Flight_Delay_Analysis_Dashboard/blob/main/US_Flight_Delay_Analysis.png)
 
 ## How to Use
 1. Clone or download this repository.
